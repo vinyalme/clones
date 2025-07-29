@@ -1,2 +1,2 @@
- Meu Spotify clonado.
+Meu Spotify clonado.
  
