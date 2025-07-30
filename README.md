@@ -1,7 +1,2 @@
 # Clones
-Meu projetos clonados 
- 
-  
- 
- 
- 
+Meu projetos clonados
